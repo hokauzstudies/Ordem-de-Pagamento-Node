@@ -2,8 +2,8 @@ import { CieloApi } from '../order/cielo'
 import { CARDS } from './mock'
 
 const cielo = new CieloApi({
-  merchantId: 'c2b68f00-6f23-4712-9845-10ec4c5bf793', 
-  merchantKey: 'OFCKANEHRDYLSAYIMHXFMCELJKVPZEEEGRWHHRBB',
+  merchantId: '', 
+  merchantKey: '',
   useSandbox: true
 })
 
